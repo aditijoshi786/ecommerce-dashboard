@@ -91,7 +91,16 @@ The charts update automatically when product data changes.
 
 ## Deployment
 
-The project is deployed using Vercel and connected to MongoDB Atlas using environment variables.
+The project is deployed using Vercel and connected to MongoDB Atlas , Cloudinary using environment variables.
+<img width="1919" height="1016" alt="Screenshot 2025-12-25 203542" src="https://github.com/user-attachments/assets/4a17aeb5-ac0b-4faf-98ac-37536a58c813" />
+login page
+
+<img width="1919" height="1015" alt="Screenshot 2025-12-25 203619" src="https://github.com/user-attachments/assets/9ba30649-1fd5-41e3-bea3-d16fa6dfd48d" />
+<img width="1894" height="925" alt="Screenshot 2025-12-25 203643" src="https://github.com/user-attachments/assets/f7c8d103-90d9-4fd5-bce0-5197d8427965" />
+Dashboard page
+
+
+
 
 ---
 
