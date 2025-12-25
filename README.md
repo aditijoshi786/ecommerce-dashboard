@@ -86,8 +86,6 @@ The charts update automatically when product data changes.
 2. Start the development server:
    npm run dev
 
-3. Open the application in browser:
-   http://localhost:3000
 
 ---
 
